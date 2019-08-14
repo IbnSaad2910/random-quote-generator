@@ -1,0 +1,46 @@
+body {
+  background: url(https://cdn.stocksnap.io/img-thumbs/960w/KWMYJNGPAH.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  margin-top: 100px;
+}
+p {
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  padding: 10px;
+}
+#quote-box {
+  background-color: #f1f1f1;
+  width: 100%;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid #FA8447;
+  border-radius: 15px 50px;
+  box-shadow: 5px 10px #FA8447;
+  padding: 40px;
+  height: auto;
+}
+#quotes {
+  font-family: "Times New Roman";
+  margin-bottom: 20px;
+}
+#text {
+  font-size: 30px;
+}
+#author {
+  font-size: 20px;
+  font-style: italic;
+}
+.fa-quote-left, .fa-quote-right {
+  font-size: 25px;
+  margin: 7.5px;
+}
